@@ -1,1 +1,2 @@
 # Merged_music_player
+This app could be used when you want to play same song on several devices in synchronized manner.On this app the song must be present on the at least on device and others could connect to that to device to play the same song from same instance and it would sound like song is being played on some huge speaker so ,if you have no speaker at hand and you want to make a surround sound environment use this app.
